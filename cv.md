@@ -26,7 +26,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 * Code review
 * Resource management
 
-# Communication
+## Communication
 * Presentation experience: To stakeholders, meetups and teams
 * Mentoring and coaching teams
 * Writing technical articles
@@ -41,3 +41,9 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 * Presentation: Showcasing, Meetups, Brown bag sessions, YouTube, Specification writing, Blogs
 
 # Experience
+
+* Lead JavaScript Engineer @ Barclays - Sep 2018 - Now
+* Software Development Lead @ Laterooms.com - Nov 2017 - Aug 2018
+* Professional Software Developer @ Laterooms.com - May 2015 - Nov 2017
+* Software Developer @ Wax Digital - Sep 2013 - Apr 2015
+* Web Developer @ CSI Media - Feb 2011 - Aug 2013
