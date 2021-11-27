@@ -10,6 +10,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 * Defined process, procedures and helped develop the "Consumer products" team. This has helped the new team take on additional responsibilities of prototyping and implementing a new technology platform.
 * Proposed, managed and implemented an architectural change of the MyAccount project, removing the cost of 6+ servers. Saving around £120k per annum.
 * STEM Ambassador helping support schools and projects around Manchester providing expertise on commercial applications of tehnology and career advice within the development community.
+* Community Lead @ [Techs And The City](https://www.meetup.com/Techs-and-The-City/) helping support the wider tech community in Greater Manchester.
 
 # Skills Summary
 
