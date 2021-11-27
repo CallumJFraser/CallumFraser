@@ -6,7 +6,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Achievements
 
-* Helped prototype and implement career "Maturity framework" helping developers see what is expected of roles and suport self refelection and identification of strengths and development areas.  
+* Helped prototype and implement career "Maturity framework" helping developers see what is expected of roles and suport identification of strengths and development areas.  
 * Defined process, procedures and helped develop the "Consumer products" team. This has helped the new team take on additional responsibilities of prototyping and implementing a new technology platform.
 * Proposed, managed and implemented an architectural change of the MyAccount project, removing the cost of 6+ servers. Saving around £120k per annum.
 * STEM Ambassador helping support schools and projects around Manchester providing expertise on commercial applications of tehnology and career advice within the development community.
