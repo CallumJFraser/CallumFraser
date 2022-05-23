@@ -48,15 +48,41 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Experience
 
-* Lead Front End Developer @ AO.com - Aug 2020 - Now.
+### Lead Front End Developer
+*Aug 2020 - Now* @ AO.com
+
 Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
 
 Running performance working group for sharing of knowledge across the wider business and promoting best practices throughout the AO tech community. Regularly running front end community meetings and organising team and community social days.
-* Lead JavaScript Engineer @ Barclays - Sep 2018 - Aug 2020
+
+### Lead JavaScript Engineer 
+*Sep 2018 - Aug 2020* @ Barclays
+  
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
 
 Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business.  
-* Software Development Lead @ Laterooms.com - Nov 2017 - Aug 2018
-* Professional Software Developer @ Laterooms.com - May 2015 - Nov 2017
-* Software Developer @ Wax Digital - Sep 2013 - Apr 2015
-* Web Developer @ CSI Media - Feb 2011 - Aug 2013
+### Software Development Lead
+*Nov 2017 - Aug 2018* @ Laterooms.com
+
+Managed the front end team alongside principal developer and helped ensure quality of the code by taking on responsibility for the technical implementations.
+
+Ran one-to-ones with team members and set clear objectives. Ensuring we discussed them in line with company strategy and department goals. Provided feedback and discussed issues with team members.
+
+Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
+
+### Professional Software Developer
+*May 2015 - Nov 2017* @ Laterooms.com
+
+Filled in team development lead position for 3 months.
+
+I was the SME for the “Customer Management” API and front end web and account platforms. I made decisions on the migration of the team projects to the new DC environment.
+
+I managed and implemented the integration of the account platform into the front end project reducing live server requirements by 6. Saving the company ca. £120K per annum.
+
+Most importantly, worked within the company and community to help teach and ensure our next generation is as passionate about STEM subjects as I am.
+
+### Software Developer
+*Sep 2013 - Apr 2015* @ Wax Digital
+
+### Web Developer
+*Feb 2011 - Aug 2013* @ CSI Media
