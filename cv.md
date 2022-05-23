@@ -48,8 +48,14 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Experience
 
-* Lead Front End Developer @ AO.com - Aug 2020 - Now
+* Lead Front End Developer @ AO.com - Aug 2020 - Now.
+Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
+
+Running performance working group for sharing of knowledge across the wider business and promoting best practices throughout the AO tech community. Regularly running front end community meetings and organising team and community social days.
 * Lead JavaScript Engineer @ Barclays - Sep 2018 - Aug 2020
+Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
+
+Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business.  
 * Software Development Lead @ Laterooms.com - Nov 2017 - Aug 2018
 * Professional Software Developer @ Laterooms.com - May 2015 - Nov 2017
 * Software Developer @ Wax Digital - Sep 2013 - Apr 2015
