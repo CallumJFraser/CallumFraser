@@ -1,4 +1,4 @@
-# CV
+# Callum Fraser
 
 Leader and people manager passionate about inspiring and helping people become the best they can be. Passionate about inspiring and helping people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
 
