@@ -8,18 +8,11 @@ I am always interested in helping anyone wanting to get into the tech/developmen
 
 My [Markdown CV](cv) is available online for those interested
 
-## Community
+## Community Involvement
 - Co-organiser @ [TechRise](https://www.meetup.com/tech-rise-mcr/)
 - Co-organiser @ [MancJS](https://www.meetup.com/mancjs/)
 - Community Lead @ [Techs And The City](https://www.meetup.com/Techs-and-The-City/) 
 - Volunteer @ [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/)
-
-## Talks
-- Leadership Lessons From the Most Succesful English Football Team
-- Turbocharging Your Career With AI
-- Common Misconceptions in Tech
-- Optimising for Understanding
-- SOLID Typescript Principles
 
 ## Projects
 * [NorthWest Tech Resources](https://callumjfraser.github.io/NorthWestTech/)
@@ -29,10 +22,17 @@ My [Markdown CV](cv) is available online for those interested
 - [Green Software for Practitioners Certification](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/3f68ff1a-b4b7-4833-a440-29c5ba180a3b-callum-fraser-ad8f81f1-b0b4-4307-b4d9-c0c395f5f8cd-certificate.pdf)
 - [(Cycling) 300 in 30 for Cancer Research UK](https://fundraise.cancerresearchuk.org/page/callums-cycle-300-fundraising-page-13)
 
+## Talks
+- Leadership Lessons From the Most Succesful English Football Team
+- Turbocharging Your Career With AI
+- Common Misconceptions in Tech
+- Optimising for Understanding
+- SOLID Typescript Principles
+
 ## Hobbies and Interests
 - Cycling
 - Sustainability
-- Camping
+- Open Source Software 
 - Gardening
 - Leadership
 - Mentoring
