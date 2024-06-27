@@ -8,7 +8,6 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 * Helped prototype and implement career "Maturity framework" helping developers see what is expected of roles and suport identification of strengths and development areas.  
 * Defined process, procedures and helped develop the "Consumer products" team. This has helped the new team take on additional responsibilities of prototyping and implementing a new technology platform.
-* Community Lead @ [Techs And The City](https://www.meetup.com/Techs-and-The-City/) helping support the wider tech community in Greater Manchester.
 
 ## Skills Summary
 
@@ -32,7 +31,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 ### Communication
 
 * Presentation experience: To stakeholders, meetups and teams
-* Mentoring and coaching individuals and teams
+* Coaching and mentoring both individuals and teams
 * Writing technical articles
 * Process creation and documentation
 * Creation and maintenance of training guides
@@ -46,8 +45,17 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Experience
 
+### Engineering Manager
+*Sep 2022 - Now* @ CreateFuture/xDesign
+
+Managing core maintanance product team of 8 engineers delivering improvements on client system with over 300 Million monthly views. Leading a migration project and improving site performance by over 35%. Leading team communications, coaching and mentoring including knowledge sharing across 20 internal and external client teams.
+
+Managing team priorities, communicating progress and aligning projects with other client teams. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
+
+Co-Organising and contributing to STEM ambassador, neurodiversity and leadership communities. Identifying, managing and contributing to improvements on processes including company initiatives.
+
 ### Lead Front End Developer
-*Aug 2020 - Now* @ AO.com
+*Aug 2020 - Sep 2022* @ AO.com
 
 Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
 
