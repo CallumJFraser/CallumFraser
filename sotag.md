@@ -1,5 +1,5 @@
 ## Welcome
-<img src="Me.jpg" alt="Picture of me" width="150" align="left"/> 
+<img src="Me.jpg" alt="Picture of me" width="150" align="right"/> 
 
 Hi and welcome, my name is Callum.
 
