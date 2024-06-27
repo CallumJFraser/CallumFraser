@@ -1,5 +1,5 @@
 ## Welcome
-![Picture of Me](Me.jpg) My name is Callum.
+<img src="Me.jpg" alt="Picture of me" width="200"/> My name is Callum.
 
 Please check out my:
 - [Linkedin](https://www.linkedin.com/in/callumjfraser/)
