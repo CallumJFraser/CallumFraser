@@ -1,5 +1,12 @@
-## About
-A leader and people manager passionate about inspiring and helping people become the best they can. Loves inspiring teams, mentoring and using the best technology and process to solve problems: through conversations, talks and support through mentorship and coaching. Involved in organising and contributing to community events across technology, leadership and management in Manchester, UK.
+## Welcome
+My name is Callum.
+
+Please check out my:
+- [Linkedin](https://www.linkedin.com/in/callumjfraser/)
+- [Medium](https://medium.com/@callumjfraser)
+
+## About Me
+A leader and people manager passionate about inspiring and helping people become the best they can. I Love inspiring teams, mentoring and using the best technology and process to solve problems: through conversations, talks and support through mentorship and coaching. I am involved in organising and contributing to many community events across technology, leadership and management in Manchester, UK.
 
 A Co-organiser @ [MancJS](https://www.meetup.com/mancjs/) and seasoned Software Engineering Manager with experience leading and inspiring teams @ [CreateFuture](www.createfuture.com) and in Greater Manchester. Demonstrated history of working in the finance, commercial and leisure & travel industry. 
 
