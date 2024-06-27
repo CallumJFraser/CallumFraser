@@ -1,9 +1,11 @@
 ## Welcome
-<img src="Me.jpg" alt="Picture of me" width="200"/> My name is Callum.
+<img src="Me.jpg" alt="Picture of me" width="200"/> <p> My name is Callum.
 
 Please check out my:
 - [Linkedin](https://www.linkedin.com/in/callumjfraser/)
 - [Medium](https://medium.com/@callumjfraser)
+
+</p>
 
 ## About Me
 A leader and people manager passionate about inspiring and helping people become the best they can. I Love inspiring teams, mentoring and using the best technology and process to solve problems: through conversations, talks and support through mentorship and coaching. I am involved in organising and contributing to many community events across technology, leadership and management in Manchester, UK.
