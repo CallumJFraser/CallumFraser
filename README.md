@@ -3,10 +3,9 @@
 
 Hi and welcome, my name is Callum.
 
-Please check out my:
-- [Linkedin](https://www.linkedin.com/in/callumjfraser/)
-- [Medium](https://medium.com/@callumjfraser)
+Please check out my [Linkedin](https://www.linkedin.com/in/callumjfraser/) profile and [Medium](https://medium.com/@callumjfraser) posts.
 
+Ir browse this website, its your choice. Thanks for stopping by.
 
 ## About Me
 A leader and people manager passionate about inspiring and helping people become the best they can. I Love inspiring teams, mentoring and using the best technology and process to solve problems: through conversations, talks and support through mentorship and coaching. I am involved in organising and contributing to many community events across technology, leadership and management in Manchester, UK.
