@@ -1,8 +1,10 @@
-## Welcome, my Name is Callum
-My name is Callum Fraser.
+## Welcome
+<img src="Me.jpg" alt="Picture of me" width="150" align="left"/> 
 
-You have scanned my social media tag
+Hi and welcome, my name is Callum.
 
-Please follow me on:
+You have scanned my social media tag (SoTag)
+
+Please check out my:
 - [Linkedin](https://www.linkedin.com/in/callumjfraser/)
 - [Medium](https://medium.com/@callumjfraser)
