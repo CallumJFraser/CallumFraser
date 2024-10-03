@@ -36,6 +36,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ### Engineering Manager
 *Sep 2022 - Now* @ CreateFuture/xDesign
+
 Managing core maintanance product team of 8 engineers delivering improvements on client system with over 300 Million monthly views. Leading a migration project and improving site performance by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 internal and external client teams.
 
 Managing team priorities, communicating progress and aligning projects with other client teams in department. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
