@@ -44,16 +44,19 @@ Co-Organising and contributing to STEM ambassador, neurodiversity and leadership
 
 ### Lead Front End Developer
 *Aug 2020 - Sep 2022* @ AO.com
+
 Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
 
 Running performance working group for sharing of knowledge across the wider business and promoting best practices throughout the AO tech community. Regularly running front end community meetings and organising team and community social days.
 
 ### Lead JavaScript Engineer 
 *Sep 2018 - Aug 2020* @ Barclays
+
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
 
 Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
 ### Professional Software Developer/Software Development Lead
 *May 2015 - Nov 2017 - Aug 2018* @ Laterooms.com
+
 Managed the front end team alongside principal developer and helped ensure quality of the code by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
