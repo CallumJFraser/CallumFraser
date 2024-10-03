@@ -36,7 +36,6 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ### Engineering Manager
 *Sep 2022 - Now* @ CreateFuture/xDesign
-
 Managing core maintanance product team of 8 engineers delivering improvements on client system with over 300 Million monthly views. Leading a migration project and improving site performance by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 internal and external client teams.
 
 Managing team priorities, communicating progress and aligning projects with other client teams in department. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
@@ -45,23 +44,16 @@ Co-Organising and contributing to STEM ambassador, neurodiversity and leadership
 
 ### Lead Front End Developer
 *Aug 2020 - Sep 2022* @ AO.com
-
 Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
 
 Running performance working group for sharing of knowledge across the wider business and promoting best practices throughout the AO tech community. Regularly running front end community meetings and organising team and community social days.
 
 ### Lead JavaScript Engineer 
 *Sep 2018 - Aug 2020* @ Barclays
-  
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
 
-Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business.  
-### Software Development Lead
-*Nov 2017 - Aug 2018* @ Laterooms.com
+Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
-Managed the front end team alongside principal developer and helped ensure quality of the code by taking on responsibility for the technical implementations.
-
-Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
-
-### Professional Software Developer
-*May 2015 - Nov 2017* @ Laterooms.com
+### Professional Software Developer/Software Development Lead
+*May 2015 - Nov 2017 - Aug 2018* @ Laterooms.com
+Managed the front end team alongside principal developer and helped ensure quality of the code by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
