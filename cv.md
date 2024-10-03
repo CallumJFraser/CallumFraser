@@ -14,28 +14,16 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ### Team Management
 
-* Implementing and supporting continuous improvement in people and processes
-* Experience of recruitment process across multiple industries
-* Proven ability to handle management of a team
-* Promoting peer review and providing feedback
-* Setting achievable objectives
-* Task delegation
-
-### Project Management
-
-* Experience in agile methodologies including SCRUM and LESS
-* Stakeholder collaboration
-* Pair programming
-* Code review
-* Resource allocation and management
+* Implementing and supporting continuous teams improvement
+* Experience of improving recruitment process across multiple industries
+* PSM qualified with experience in SCRUM and LESS
+* Resource allocation and timeline management
 
 ### Communication
 
 * Presentation experience: To stakeholders, meetups and teams
 * Coaching and mentoring both individuals and teams
-* Writing technical articles
-* Process creation and documentation
-* Creation and maintenance of training guides
+* Technical article writing on linkedin and engineering blogs
 
 ### Technical
 
@@ -51,9 +39,9 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 Managing core maintanance product team of 8 engineers delivering improvements on client system with over 300 Million monthly views. Leading a migration project and improving site performance by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 internal and external client teams.
 
-Managing team priorities, communicating progress and aligning projects with other client teams. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
+Managing team priorities, communicating progress and aligning projects with other client teams in department. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
 
-Co-Organising and contributing to STEM ambassador, neurodiversity and leadership communities. Identifying, managing and contributing to improvements on processes including company initiatives.
+Co-Organising and contributing to STEM ambassador, neurodiversity and leadership public and private communities. Identifying, managing and contributing to improvements on processes including company initiatives.
 
 ### Lead Front End Developer
 *Aug 2020 - Sep 2022* @ AO.com
