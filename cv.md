@@ -65,9 +65,3 @@ Directed the full interview process: from reviewing the CV through to running th
 
 ### Professional Software Developer
 *May 2015 - Nov 2017* @ Laterooms.com
-
-### Software Developer
-*Sep 2013 - Apr 2015* @ Wax Digital
-
-### Web Developer
-*Feb 2011 - Aug 2013* @ CSI Media
