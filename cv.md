@@ -13,22 +13,14 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Skills Summary
 
-### Team Management
-
 * Implementing and supporting continuous teams improvement
 * Experience of improving recruitment process across multiple industries
-* PSM qualified with experience in SCRUM and LESS
-
-### Communication
-
-* Presentation experience: To stakeholders, meetups and teams
-* Coaching andmentoring on multi-team documentation, training and information sharing
+* PSM1 qualified Scrum Master with experience in SCRUM and LESS
+* Presentation and hosting experience: To public, stakeholders, meetups and teams
+* Coaching and mentoring on multi-team documentation, training and information sharing
 * Technical article writing on linkedin and engineering blogs
-
-### Technical
-
-* Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions, C#, ASP.NET
-* Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Varnish, Mocha, Chai, Bash, MSSQL
+* Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions
+* Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Mocha, Chai, Bash, MSSQL
 * Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, AWS, JIRA, Azure Devops
 
 ## Experience
