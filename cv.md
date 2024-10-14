@@ -29,8 +29,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 * Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions, C#, ASP.NET
 * Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Varnish, Mocha, Chai, Bash, MSSQL
-* Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, JIRA, Azure Devops, AWS
-* Presentation: Showcasing, Meetups, Brown bag sessions, Blogs, YouTube, Specification writing
+* Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, AWS, JIRA, Azure Devops
 
 ## Experience
 
