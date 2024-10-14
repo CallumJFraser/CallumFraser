@@ -8,7 +8,7 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 * Mentored and guided UI team throguh improvements that lead to a 60% increase to performance KPIs in key client application.
 * Helped prototype and implement career "Maturity framework" helping developers see what is expected of roles and suport identification of strengths and development areas.  
-* Defined process, procedures and helped develop the "Consumer products" team. This has helped the new team take on additional responsibilities of prototyping and implementing a new technology platform.
+* Defined process, procedures and helped develop the "Consumer products" team. Helping the new team take on additional responsibilities of prototyping and implementing a new technology platform.
 * Hosting Manchester Tech Festival 'Core days' on main stage and organiser of 2 manchester meetups.
 
 ## Skills Summary
@@ -18,19 +18,18 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 * Implementing and supporting continuous teams improvement
 * Experience of improving recruitment process across multiple industries
 * PSM qualified with experience in SCRUM and LESS
-* Resource allocation and timeline management
 
 ### Communication
 
 * Presentation experience: To stakeholders, meetups and teams
-* Coaching and mentoring both individuals and teams
+* Coaching andmentoring on multi-team documentation, training and information sharing
 * Technical article writing on linkedin and engineering blogs
 
 ### Technical
 
 * Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions, C#, ASP.NET
 * Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Varnish, Mocha, Chai, Bash, MSSQL
-* Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, JIRA, Azure Devops
+* Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, JIRA, Azure Devops, AWS
 * Presentation: Showcasing, Meetups, Brown bag sessions, Blogs, YouTube, Specification writing
 
 ## Experience
