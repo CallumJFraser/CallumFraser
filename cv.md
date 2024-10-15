@@ -1,13 +1,13 @@
 # Callum Fraser
 
-Leader and technially minded people manager passionate about coaching and mentoring to help people become the best they can be. Passionate about inspiring and supporting people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
+Leader and technially minded people manager, passionate about coaching and mentoring to help people become the best they can be. Passionate about inspiring and supporting people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
 
 A seasoned Software Engineer with experience managing and inspiring cross skilled teams. Demonstrated history of using the best technology approaches and processes to solve problems.
 
 ## Achievements
 
-* Mentored and guided UI team throguh improvements that lead to a 60% increase to performance KPIs in key client application.
-* Helped prototype and implement career "Maturity framework" helping developers see what is expected of roles and suport identification of strengths and development areas.  
+* Mentored and guided UI team throguh improvements that lead to a 60% increase to performance KPIs.
+* Prototyped and implemented career "Maturity framework" helping developers see what is expected of roles and supporting identification of strengths and development areas.  
 * Defined process, procedures and helped develop the "Consumer products" team. Helping the new team take on additional responsibilities of prototyping and implementing a new technology platform.
 * Hosting Manchester Tech Festival 'Core days' on main stage and organiser of 2 manchester meetups.
 
