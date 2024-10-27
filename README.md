@@ -19,6 +19,7 @@ My [Markdown CV](cv) is available online for those interested
 
 ## Community Involvement
 - Co-organiser @ [MancJS](https://www.meetup.com/mancjs/)
+- Co-organiser @ [TechRise MCR](https://www.meetup.com/tech-rise-mcr/)
 - Board Member @ [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/)
 - [STEM Ambassador](https://www.stem.org.uk/stem-ambassadors)
 
