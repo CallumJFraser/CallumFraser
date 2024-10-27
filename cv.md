@@ -52,3 +52,8 @@ Supporting team members through regular one to ones and pairing sessions both re
 *May 2015 - Nov 2017 - Aug 2018* @ Laterooms.com
 
 Managed the front end team alongside the principal developer and helped ensure code quality by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
+
+## Certificates
+- [First Aider](https://tigerlilytraining.co.uk/verification/home/token/lxa6c1z2b6/)
+- [PSM1 Certification](https://www.scrum.org/user/1118604)
+- [Green Software for Practitioners Certification](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/3f68ff1a-b4b7-4833-a440-29c5ba180a3b-callum-fraser-ad8f81f1-b0b4-4307-b4d9-c0c395f5f8cd-certificate.pdf)
