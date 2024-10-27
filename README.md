@@ -19,8 +19,8 @@ My [Markdown CV](cv) is available online for those interested
 
 ## Community Involvement
 - Co-organiser @ [MancJS](https://www.meetup.com/mancjs/)
-- Community Lead @ [Techs And The City](https://www.meetup.com/Techs-and-The-City/) 
-- Volunteer @ [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/)
+- Board Member @ [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/)
+- [STEM Ambassador](https://www.stem.org.uk/stem-ambassadors)
 
 ## Projects
 * [NorthWest Tech Resources](https://callumjfraser.github.io/NorthWestTech/)
