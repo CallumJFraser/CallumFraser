@@ -1,8 +1,8 @@
 # Callum Fraser
 
-Leader and technically minded people manager, passionate about coaching and mentoring to help people become the best they can be. Passionate about inspiring and supporting people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
+Leader and technically minded people manager, passionate about coaching and mentoring to help develop the next generation of leaders. Passionate about inspiring and supporting people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
 
-A seasoned Software Engineer with experience managing and inspiring cross skilled teams. Demonstrated history of using the best technology approaches and processes to solve problems.
+A seasoned manager with experience inspiring cross skilled teams and communities. Demonstrated history of using the best approaches to solve problems.
 
 ## Achievements
 
@@ -13,12 +13,12 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 
 ## Skills Summary
 
-* Implementing and supporting continuous teams improvement
+* Coaching and mentoring teams on information sharing, multi-team documentation and training.
+* Implementing and supporting continuous teams improvement across multiple teams.
+* Mentoring and coaching managers on team leadership, performance feedback and reviews.
 * Experience of improving recruitment processes across multiple industries
-* PSM1 qualified Scrum Master with experience in SCRUM and LESS
 * Presentation and hosting experience: At Public events like meetups and conferences through to internally with stakeholders and teams.
-* Coaching and mentoring on multi-team documentation, training and information sharing
-* Technical article writing on LinkedIn and engineering blogs
+* Technical article writing on LinkedIn and engineering blogs.
 * Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions
 * Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Mocha, Chai, Bash, MSSQL
 * Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, AWS, JIRA, Azure Devops
@@ -28,9 +28,9 @@ A seasoned Software Engineer with experience managing and inspiring cross skille
 ### Engineering Manager
 *Sep 2022 - Oct 2024* @ CreateFuture/xDesign
 
-Managing core maintenance product team of 8 engineers delivering improvements on client systems with over 300 Million monthly views. Leading a major migration project and improvements to site performance KPIs by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 client teams.
+Leading a major migration project and improvements to site performance KPIs by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 client teams. Supporting core maintenance product team of 8 engineers delivering improvements on client systems with over 300 Million monthly views. 
 
-Managing team roadmap and priorities, communicating progress and aligning projects with other client teams in the department. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
+Managing teams wider roadmap and priorities, communicating progress and aligning projects with other client teams. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
 
 Co-Organising and contributing to STEM ambassador, neurodiversity and leadership public and private communities including providing feedback on community concerns. Identifying, managing and contributing to improvements on processes including 2 core company initiatives.
 
