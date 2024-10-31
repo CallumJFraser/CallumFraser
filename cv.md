@@ -4,13 +4,13 @@ Technically minded people leader and manager, passionate about coaching and ment
 
 Proven track record of turning performance issues into positive improved outcomes and mentoring leaders in performance issues and conversations.
 
-Often found talking with seasoned professionals across the Manchester tech community. Mentoring and coaching leaders on continuous improvement, agile working practices, team leadership, performance feedback and reviews.
+Often found talking with seasoned professionals across the Manchester tech community. Mentoring, implementing and supporting team leaders on continuous improvement, agile working practices, neurodiversity, team leadership, performance feedback and reviews.
 ## Summary
 
-* Mentored team through the implementation of a 60% increase in performance KPIs.
-* Prototyped, implemented and improved career Maturity framework's to help developers see what is expected of roles.  
-* Identified and defined processes, procedures and helped develop the roadmap for prototyping and implementing new technology platform transition.
-* Hosting the main stage for Manchester Tech Festival 2023 & 2024 'Core days'.
+- Mentored team through the implementation of a 60% increase in performance KPIs.
+- Prototyped, implemented and improved career Maturity frameworks to help developers see what is expected of roles. 
+- Identified and defined processes, procedures and helped develop the roadmap for prototyping and implementing new technology platform transition.
+- Hosting the main stage for Manchester Tech Festival 2023 & 2024 'Core days'.
 ## Experience
 
 ### Engineering Manager
