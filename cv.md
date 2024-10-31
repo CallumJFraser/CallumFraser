@@ -37,18 +37,18 @@ Co-organising and contributing to neurodiversity, STEM ambassador and leadership
 * Ran multi-team performance working group, improving software performance KPIs by 30%
 * Managed nine people (team of 4 & line management of 5 engineers) across multiple teams
 
-Inspiring, coaching and mentoring front-end developers across multiple areas within the company. Supporting personalisation team alongside another lead, helping to improve agile team processes and resolve.
+Inspiring, coaching and mentoring front-end developers across multiple areas within the company. Supporting personalisation team, helping to improve agile team processes and mentoring on leadership.
 
 Running performance working group, promoting best practices throughout the AO tech community leading to 30% improvement in performance KPI's.
 
 ### Lead JavaScript Engineer 
 *Sep 2018 - Aug 2020* @ Barclays
 
-- Managed a multi-team technology migration project
+- Managed and architected a multi-team technology migration project
 - Led technology knowledge learning initiative for core maintenance teams
 - Managed 7 people
 
-Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
+Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Supporting other leaders with mentoring and coaching. Helping to embed best technology patterns and agile practices across project teams.
 
 Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
