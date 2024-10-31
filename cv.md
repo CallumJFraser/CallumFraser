@@ -1,55 +1,61 @@
 # Callum Fraser
 
-Leader and technically minded people manager, passionate about coaching and mentoring to help develop the next generation of leaders. Passionate about inspiring and supporting people, often found speaking to groups of students and seasoned professionals across the Manchester tech community.
+Technically minded people leader and manager, passionate about coaching and mentoring the next generation of leaders. Demonstrated history of identifying and implementing multi-team improvement initiatives and improving problematic teams.
 
-A seasoned manager with experience inspiring cross skilled teams and communities. Demonstrated history of using the best approaches to solve problems.
-
+Often found talking with seasoned professionals across the Manchester tech community. 
 ## Achievements
 
-* Mentored and guided UI team through improvements that lead to a 60% increase to performance KPIs.
-* Prototyped and implemented career "Maturity framework" helping developers see what is expected of roles and supporting identification of strengths and development areas.  
-* Defined processes, procedures and helped develop the "Consumer products" team. Helping the new team take on additional responsibilities of prototyping and implementing a new technology platform.
-* Hosting Manchester Tech Festival 'Core days' on the main stage and organiser of 2 Manchester meetups.
+* Mentored team through the implementation of a 60% increase in performance KPIs.
+* Prototyped, implemented and improved career Maturity framework's to help developers see what is expected of roles.  
+* Identified and defined processes, procedures and helped develop the roadmap for prototyping and implementing new technology platform transition.
+* Hosting the main stage for Manchester Tech Festival 2023 & 2024 'Core days'.
 
 ## Skills Summary
 
-* Coaching and mentoring teams on information sharing, multi-team documentation and training.
-* Implementing and supporting continuous teams improvement across multiple teams.
-* Mentoring and coaching managers on team leadership, performance feedback and reviews.
-* Experience of improving recruitment processes across multiple industries
+* Proven track record of turning performance issues into positive improved outcomes.
+* Mentoring, implementing and supporting team leaders on continuous improvement, agile working practices, team leadership, performance feedback and reviews.
+* Improving recruitment processes across multiple industries including changes to help support neurodiverse candidates.
 * Presentation and hosting experience: At Public events like meetups and conferences through to internally with stakeholders and teams.
-* Technical article writing on LinkedIn and engineering blogs.
-* Languages: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS, Redux, Chrome Extensions
-* Tools: Git/GitHub/Bitbucket, Docker, TDD, BDD, Microservices, Restful APIs, Mocha, Chai, Bash, MSSQL
-* Delivery: CircleCI, GOCD, Jenkins, Rancher, SOLID, NPM, AWS, JIRA, Azure Devops
+* Language Experience: JavaScript (ES2015+), TypeScript, NodeJs, ReactJS , C#, ASP.NET, C/C++
 
 ## Experience
 
 ### Engineering Manager
 *Sep 2022 - Oct 2024* @ CreateFuture/xDesign
 
-Leading a major migration project and improvements to site performance KPIs by over 50%. Leading team communications, coaching and mentoring including mentoring on knowledge sharing across 20 client teams. Supporting core maintenance product team of 8 engineers delivering improvements on client systems with over 300 Million monthly views. 
+- Managed two multi-team technology migration projects
+- 60% increase in front-end performance KPIs.
+- Managed 14 people (team of 8 & line management of 3 engineers & 3 line managers) across multiple clients
+- Managing a project roadmap and priorities, aligning project outcomes with other business areas
 
-Managing teams wider roadmap and priorities, communicating progress and aligning projects with other client teams. Coaching, mentoring and line management for 6 senior engineers. Mentoring 3 senior engineers on management of team members.
+Mentoring leaders on team communications, including knowledge sharing changes across 15 client teams. Managing client migration project for a system with 300 Million monthly views.
 
-Co-Organising and contributing to STEM ambassador, neurodiversity and leadership public and private communities including providing feedback on community concerns. Identifying, managing and contributing to improvements on processes including 2 core company initiatives.
+Co-organising and contributing to neurodiversity, STEM ambassador and leadership communities, including providing feedback on community concerns. Identifying, managing and contributing to process improvements, including two core company initiatives.
 
 ### Lead Front End Developer
 *Aug 2020 - Sep 2022* @ AO.com
+* Ran multi-team performance working group, improving software performance KPIs by 30%
+* Managed nine people (team of 4 & line management of 5 engineers) across multiple teams
 
-Inspiring, coaching and mentoring front end developers across multiple areas within AO through regular one to one and pairing sessions. Supporting personalisation team alongside another lead helping to improve agile team processes.
+Inspiring, coaching and mentoring front-end developers across multiple areas within the company. Supporting personalisation team alongside another lead, helping to improve agile team processes and resolve.
 
-Running performance working group for sharing of knowledge across the wider business and promoting best practices throughout the AO tech community. Regularly running front end community meetings and organising team and community social days.
+Running performance working group, promoting best practices throughout the AO tech community leading to 30% improvement in performance KPI's.
 
 ### Lead JavaScript Engineer 
 *Sep 2018 - Aug 2020* @ Barclays
+
+- Managed a multi-team technology migration project
+- Led technology knowledge learning initiative for core maintenance teams
+- Managed 7 people
 
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Helping to embed best technology patterns and agile practices to the teams.
 
 Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
-### Professional Software Developer/Software Development Lead
-*May 2015 - Nov 2017 - Aug 2018* @ Laterooms.com
+### Software Development Lead
+*Nov 2017 - Aug 2018* @ Laterooms.com
+
+- Managed team of 6 engineers
 
 Managed the front end team alongside the principal developer and helped ensure code quality by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
 
