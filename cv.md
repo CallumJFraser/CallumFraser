@@ -47,7 +47,7 @@ Running performance working group, promoting best practices throughout the AO te
 
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Supporting other leaders with mentoring and coaching. Helping to embed best technology patterns and agile practices across project teams.
 
-Supporting teams both remotely and in person across two offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
+Supporting teams both remotely and in-person teams across two offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
 ### Software Development Lead
 *Nov 2017 - Aug 2018* @ Laterooms.com
