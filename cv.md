@@ -37,26 +37,25 @@ Co-organising and contributing to neurodiversity, STEM ambassador and leadership
 
 Inspiring, coaching and mentoring front-end developers across multiple areas within the company. Supporting personalisation team, helping to improve agile team processes and mentoring on leadership.
 
-Running performance working group, promoting best practices throughout the AO tech community leading to 30% improvement in performance KPI's.
+Running performance working group, promoting best practices throughout the AO tech community leading to a 30% improvement in performance KPI's.
 
 ### Lead JavaScript Engineer 
 *Sep 2018 - Aug 2020* @ Barclays
 
 - Managed and architected a multi-team technology migration project
-- Led technology knowledge learning initiative for core maintenance teams
-- Managed 7 people
+- Led technology knowledge learning initiative for project teams
 
 Managing, guiding developers and re-architecting internal tools used by 50k banking employees daily. Supporting other leaders with mentoring and coaching. Helping to embed best technology patterns and agile practices across project teams.
 
-Supporting team members through regular one to ones and pairing sessions both remotely and in person across 2 offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
+Supporting teams both remotely and in person across two offices. Running Knowledge Transfer sessions across the team and wider Front End community in the business. 
 
 ### Software Development Lead
 *Nov 2017 - Aug 2018* @ Laterooms.com
 
-- Managed team of 6 engineers
-- Defined expected behaviours for roles definitions in maturity framwork.
+- Defined expected behaviours for roles definitions in maturity framework.
+- Rearchitected systems, saving £120k server costs.
 
-Managed the front end team alongside the principal developer and helped ensure code quality by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
+Managed the front-end team alongside the principal developer and helped ensure code quality by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
 
 ## Certificates
 - [First Aider](https://tigerlilytraining.co.uk/verification/home/token/lxa6c1z2b6/)
