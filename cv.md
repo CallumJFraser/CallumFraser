@@ -29,8 +29,11 @@ Co-organising and contributing to neurodiversity, STEM ambassador and leadership
 
 ### Lead Front End Developer
 *Aug 2020 - Sep 2022* @ AO.com
-* Ran multi-team performance working group, improving software performance KPIs by 30%
-* Managed nine people (team of 4 & line management of 5 engineers) across multiple teams
+
+- Ran multi-team performance working group, improving software performance KPIs by 30%
+- Managed nine people (team of 4 & line management of 5 engineers) across multiple teams
+- Improved recruitment process experience and tech task experience consistency
+- Improved role definitions in maturity framework
 
 Inspiring, coaching and mentoring front-end developers across multiple areas within the company. Supporting personalisation team, helping to improve agile team processes and mentoring on leadership.
 
@@ -51,6 +54,7 @@ Supporting team members through regular one to ones and pairing sessions both re
 *Nov 2017 - Aug 2018* @ Laterooms.com
 
 - Managed team of 6 engineers
+- Defined expected behaviours for roles definitions in maturity framwork.
 
 Managed the front end team alongside the principal developer and helped ensure code quality by taking on responsibility for the technical implementations. Directed the full interview process: from reviewing the CV through to running the phone and in-office interviews.
 
